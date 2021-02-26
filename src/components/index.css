@@ -1,0 +1,72 @@
+body{
+    background-color: grey !important;
+
+}
+
+
+
+.card-body{
+    background-color: #303030;
+    margin-top: 0px;
+}
+.crud{
+    color: skyblue;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.card{
+    background-color: skyblue;
+}
+.card{
+    color: black;
+}
+.card-header{
+    color: skyblue;
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+.card-body{
+    color: white;
+    font-size: 15px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.name{
+    color: skyblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+.btn{
+    padding:2px;
+    width:120px;
+    margin-left: 40px;
+}
+.d{
+    background-color: aqua !important;
+    color: black !important;
+    border-radius: 12px !important;
+}
+.add{
+    background-color: aqua !important;
+    margin-left: 430px !important;
+    border-radius: 12px !important;
+    width: 130px;
+    padding: 1px;
+    
+}
+.add:hover{
+    font-size: 20px;
+}
+.final{
+    color: skyblue;
+    font-size: 20px;
+
+}
+.form-group{
+    padding: 2px;
+    width: 800px;
+    margin-left: 130px;
+}
+.hr{
+    background-color: skyblue !important;
+}
